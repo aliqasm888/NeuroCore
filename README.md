@@ -1,0 +1,1 @@
+NeuroCore is a custom Python library that implements the core foundations of neural networks, including activation functions, loss functions, optimizers, and essential building blocks for understanding and developing basic deep learning models from scratch.
