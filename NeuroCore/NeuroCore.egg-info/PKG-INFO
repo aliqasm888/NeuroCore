@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: qasm
+Version: 0.1.0
+Summary: Mini Neural Network Library من الصفر باستخدام NumPy فقط
+Author: Ali Qasm
+Author-email: AliQasm@gmail.com
+Requires-Python: >=3.8
+Requires-Dist: numpy
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
